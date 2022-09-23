@@ -1,4 +1,4 @@
-#cerner_2tothe5th_2022
+# cerner_2tothe5th_2022
  
 # Get all substrings of a given string using slicing of string 
   
