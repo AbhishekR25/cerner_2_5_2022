@@ -1,7 +1,7 @@
 import 'dart:io';
 
-/* cerner_2tothe5th_2022
-Print the factorial of a number using dart */
+//cerner_2tothe5th_2022
+//Print the factorial of a number using dart
 
 void factorial() {
   print('Enter N');
